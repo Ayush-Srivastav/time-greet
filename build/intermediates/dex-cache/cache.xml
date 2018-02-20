@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4cefaaf9aaedd80365e5088f478ccfbdcad0447f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\4db536c139a60452f78055a0c00f4d0103d01e04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\classes_96d5c076a8cc62305b3cee4833cb89cff588c4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\3925071284396b51188050179f752404aec160aa\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_be7c4e4c332f4a49ac3cdb245262488b0134ba19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\5ad4805f78a27f26bade5b49f433a45f966b7616\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\classes_d83fde01c607e41f6b5c2018a648e71e51a9ab81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\3925071284396b51188050179f752404aec160aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\classes_192305c3a944af9c563467b482b82ba2b9d5688e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\ac4a770ebd45ca5c671b4db9680be380576eeb46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\TimeGreetFriend\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\classes_110d3a56512034b463fc784a9e142e7fa8253d6b.jar" />
+    </item>
+
+</items>
